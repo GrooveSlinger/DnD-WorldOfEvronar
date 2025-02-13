@@ -10,5 +10,6 @@ From here you can explore various informations pertaining to the world of Evrona
 * [[Locations/Settlements/Settlements\|Settlements]]
 * [[Factions/Factions\|Factions]]
 * [[History/History\|History]]
+* [[Lore Tidbits/Lore Tidbits\|Lore Tidbits]]
 
 
