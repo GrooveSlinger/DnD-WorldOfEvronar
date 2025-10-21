@@ -8,6 +8,7 @@ From here you can explore various informations pertaining to the world of Evrona
 
 * [[Continents/Continents\|Continents]]
 * [[Locations/Settlements/Settlements\|Settlements]]
+* [[Deities/Deities\|Deities]]
 * [[Factions/Factions\|Factions]]
 * [[History/History\|History]]
 * [[Lore Tidbits/Lore Tidbits\|Lore Tidbits]]
