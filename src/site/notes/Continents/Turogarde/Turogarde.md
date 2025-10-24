@@ -4,11 +4,11 @@
 
 # Turogarde
 
-Turogarde is a continent in the world of Evronar. It is currently a floruishing nation due to the creation of the [[Factions/Factions/Turovian Alliance\|Turovian Alliance]], which functions as a trade union between the 3 great city states, [[Vornaud\|Vornaud]] , [[Ardenvale\|Ardenvale]] and [[Vvarden\|Vvarden]].
+Turogarde is a continent in the world of Evronar. It is currently a floruishing nation due to the creation of the [[Factions/Factions/Turovian Alliance\|Turovian Alliance]], which functions as a trade union between the 3 great city states, [[Locations/Settlements/Settlements of Turogarde/Vornaud\|Vornaud]] , [[Locations/Settlements/Settlements of Turogarde/Ardenvale\|Ardenvale]] and [[Locations/Settlements/Settlements of Turogarde/Vvarden\|Vvarden]].
 
 Those are not the only states of Turogarde, however. Also living on Turogarde is the beastman city of [[Gorthal\|Gorthal]], comprised primarily of 'monstrous' races such as Orcs, goblins and even giants. Not all 'monsters' wish to live up to their namesake, of course.
 
-Additional peoples on the land of Turogarde include the citizens of [[Ayara\|Ayara]], who live near an arcane nexus and have built their civilisation around the raw and primal magic that come near it. Aswell as the [[Factions/Factions/Vordhir\|Vordhir]], who reside in the frozen north of [[Locations/Regions/Turogarde/Iss-Vordhir\|Iss-Vordhir]].
+Additional peoples on the land of Turogarde include the citizens of [[Locations/Settlements/Settlements of Turogarde/Ayara\|Ayara]], who live near an arcane nexus and have built their civilisation around the raw and primal magic that come near it. Aswell as the [[Factions/Factions/Vordhir\|Vordhir]], who reside in the frozen north of [[Locations/Regions/Turogarde/Iss-Vordhir\|Iss-Vordhir]].
 
 ![Turogarde-Continent.png](/img/user/Images/Continents/Turogarde-Continent.png)
 
@@ -30,4 +30,4 @@ Just as you'd find human, dwarven, or elven bandits, you can also find small gro
 * [[Locations/Regions/Turogarde/Cutters Cove\|Cutters Cove]]
 * [[Locations/Regions/Turogarde/Verdant Expanse\|Verdant Expanse]]
 
-If you wish to know more about particular cities/towns/villages on this continent, check [[Locations/Settlements/Settlements of Turogarde/Settlements of Turogarde\|Settlements of Turogarde]]
+If you wish to know more about particular cities/towns/villages on this continent, check [[Locations/Settlements/Settlements of Turogarde\|Settlements of Turogarde]]

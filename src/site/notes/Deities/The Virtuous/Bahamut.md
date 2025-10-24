@@ -9,4 +9,4 @@ Despite some referring to them as "The Father of Dragons", Bahamut is the sole c
 Symbol: a silver kite shield with the head of a dragon embossed onto it
 
 
-During [[The War of Fracture\|The War of Fracture]], Bahamut was dealt a grievous wound by [[Deities/The Vile/Ethos\|Ethos]] with a cursed dagger, corrupting many dragons and creating a lineage of [[Corrupted Dragons\|Corrupted Dragons]], It is believed that this dagger then fell to the earth, creating the island of [[Locations/Regions/Turogarde/Dagger's Holm\|Dagger's Holm]].
+During The [[History/War of Fracture\|War of Fracture]], Bahamut was dealt a grievous wound by [[Deities/The Vile/Ethos\|Ethos]] with a cursed dagger, corrupting many dragons and creating a lineage of [[Corrupted Dragons\|Corrupted Dragons]], It is believed that this dagger then fell to the earth, creating the island of [[Locations/Regions/Turogarde/Dagger's Holm\|Dagger's Holm]].
