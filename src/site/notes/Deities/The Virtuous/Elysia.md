@@ -7,6 +7,8 @@ Depicted as a tall, athletic woman garbed in leather armor, save a metal pauldro
 
 What ends up differing in depictions of Elysia is what she's doing. in some artworks she may be seen singing, in statues she may be wielding a brush, and other works depict her as a whirling dervish, her dance being both beautiful and deadly. What all agree on however, is that she is both an indomitable fighter and wise beyond understanding.
 
+It is said that during the [[History/War of Fracture\|War of Fracture]], Elysia swung a single strike of her sword towards [[Raxul\|Raxul]], and in that single swipe, rent clean all of the trees in the jungle in the centre of Turogarde and creating what would thence be known as the [[Locations/Regions/Turogarde/Elysar Plains\|Elysar Plains]]. 
+
 The symbol of Elysia is the crossing of a Sword and a Painter's brush (think of the hammer and sickle)
 ![ElysiasHelmet.png](/img/user/Images/Deities/ElysiasHelmet.png)
 
