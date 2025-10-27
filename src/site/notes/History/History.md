@@ -7,4 +7,4 @@ This is an index of Historical Items regarding the World of Evronar. These Histo
 - [[History/War of Fracture\|War of Fracture]]
 - [[History/Age of Reclamation\|Age of Reclamation]]
 - [[History/War of Turogarde\|War of Turogarde]]
-- [[An Uneasy Peace\|An Uneasy Peace]] -- The current time
+- [[History/An Uneasy Peace\|An Uneasy Peace]] -- The current time
