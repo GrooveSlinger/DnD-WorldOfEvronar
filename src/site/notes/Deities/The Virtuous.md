@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/deities/the-virtuous/"}
 ---
 
-he following is a list of Deities that comprise The Virtuous:
+The following is a list of Deities that comprise The Virtuous:
 
 - [[Deities/The Virtuous/Bahamut\|Bahamut]] - God of Dragons, Justice, and Law (they/them)
 - [[Deities/The Virtuous/Ibris\|Ibris]] - God of The Sky and Sea (he/him)
