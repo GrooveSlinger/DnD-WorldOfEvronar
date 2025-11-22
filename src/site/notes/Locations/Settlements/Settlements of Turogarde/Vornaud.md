@@ -13,7 +13,12 @@ The Tower district houses most of the nobility and wealthy of Vornaud, and a lot
 Since the War of Turogarde, Vornaud, and to some extent, it's 'vassal' towns, are ruled by election of 5 seats to represent the people. 5 seats to prevent any tie votes for matter of policy. 
 
 The current elected officials, usually referred to with the title 'Count', are:
-* Count Bree Greenleaf - Halfling Woman  Test Text ::
+* Count Bree Greenleaf - Halfling Woman 
+* Count Gilbert Walmart - Human Man 
+* Count Victoria Cromwell - Elven Woman 
+* Count Torinn Rubyeye - Dragonborn Man 
+
+
 
 #### Notable Locations
 
