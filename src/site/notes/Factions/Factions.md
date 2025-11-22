@@ -4,3 +4,6 @@
 
 
 This is an index of factions within the World of Evronar.
+
+[[Factions/Factions/Coincounter Knights\|Coincounter Knights]]
+[[Factions/Factions/Azure Devils\|Azure Devils]]
