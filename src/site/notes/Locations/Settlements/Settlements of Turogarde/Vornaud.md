@@ -12,6 +12,10 @@ The current elected officials, usually referred to with the title 'Count', are <
 
 #### Notable Locations
 
+- The Virellus Reserve - The First bank of Turogarde, originally a church to Virellus, has operated as a bank for the past 250 years
+- The Lucky Dip - A tavern on the outskirts of town, popular for adventurers
+- 
+
 
 #### Notable Info
 
