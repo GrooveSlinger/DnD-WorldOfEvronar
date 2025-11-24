@@ -4,7 +4,7 @@
 
 # Turogarde
 
-Turogarde is a continent in the world of Evronar. It is currently a floruishing nation due to the creation of the [[Factions/Factions/Turovian Alliance\|Turovian Alliance]], which functions as a trade union between the 3 great city states, [[Locations/Settlements/Settlements of Turogarde/Vornaud\|Vornaud]] , [[Locations/Settlements/Settlements of Turogarde/Ardenvale\|Ardenvale]] and [[Locations/Settlements/Settlements of Turogarde/Vvarden\|Vvarden]].
+Turogarde is a continent in the world of Evronar. It is currently a flourishing nation due to the creation of the [[Factions/Factions/Turovian Alliance\|Turovian Alliance]], which functions as a trade union between the 3 great city states, [[Locations/Settlements/Settlements of Turogarde/Vornaud\|Vornaud]] , [[Locations/Settlements/Settlements of Turogarde/Ardenvale\|Ardenvale]] and [[Locations/Settlements/Settlements of Turogarde/Vvarden\|Vvarden]].
 
 Those are not the only states of Turogarde, however. Also living on Turogarde is the beastman city of [[Gorthal\|Gorthal]], comprised primarily of 'monstrous' races such as Orcs, goblins and even giants. Not all 'monsters' wish to live up to their namesake, of course.
 
