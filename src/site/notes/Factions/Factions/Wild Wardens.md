@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/factions/factions/wild-wardens/"}
 ---
 
+# Wild Wardens
 
 An organisation of part Monster Hunters, part Guardians, The Wild Wardens take jobs from clients to hunt certain beasts and monsters, usually from alchemists and wizards looking for parts for research or for their use. Sometimes however, the Guild will hear word of a particularly dangerous monster and dispatch a Warden to take care of it before it can harm people.
 

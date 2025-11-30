@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/locations/settlements/settlements-of-turogarde/vornaud/"}
 ---
 
+# Vornaud
+
 #### Description
 Easily the largest City in Turogarde, Vornaud is a sprawling city filled with trade, industry, and depending where you are, crime. Situated on the north-western coast of the Elysar plains gives it plenty of space outside of the city walls to farm various produce for export, and being situated between Vvarden and Ardenvale makes it a great market for magical items and technological advances. Considered the patron city of Virellus, it certainly lives up to the god as one cannot think of any other place in the world where more coin exchanges hands.
 
