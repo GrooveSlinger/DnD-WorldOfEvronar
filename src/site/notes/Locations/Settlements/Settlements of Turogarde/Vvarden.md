@@ -14,7 +14,7 @@ The current ruler is King Udin Goldfire, so elected after the death of the previ
 
 #### Notable Locations
 
-- The Dreamwell - on the lowest level of Vvarden, in front of the palace where the current ruler resides, is a well of swirling purple mass. it is believed that this well holds the unfulfilled dreams of the citizenry, and the ruler's duty is to see these fulfilled.
+- The Dreamwell - in the midlevel of Vvarden, in front of the palace where the current ruler resides, is a well of swirling purple mass. it is believed that this well holds the unfulfilled dreams of the citizenry, and the ruler's duty is to see these fulfilled.
 - 
 
 

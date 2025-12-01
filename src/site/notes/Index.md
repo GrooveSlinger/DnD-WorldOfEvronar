@@ -14,3 +14,8 @@ From here you can explore various informations pertaining to the world of Evrona
 * [[Lore Tidbits/Lore Tidbits\|Lore Tidbits]]
 
 
+Alternatively, if you're just looking for a quick introduction to the important aspects of the World History and Tidbits, please check out this [[Primer\|Primer]]
+
+
+
+
