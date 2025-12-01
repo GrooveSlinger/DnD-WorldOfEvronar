@@ -16,7 +16,7 @@ This is effectively the period before the War of Turogarde, the Age of Reclamati
 
 ### [[History/War of Turogarde\|War of Turogarde]]
 
-The War of Turogarde was a large scale war that lasted 4 years between Vornaud, Vvarden, and Ardenvale. Vornaud largely had the advantage in terms of manpower and the size of their army, but were stalemated by Ardenvale's prowess over magic, and Vvarden's ingenunity and technological superiority, especially when their latest creation, The Warforged, were done. but after [[Lore Tidbits/The Great Awakening\|The Great Awakening]], where Warforged gained sentience, it created a break in the fighting long enough for those with wisdom to 
+The War of Turogarde was a large scale war that lasted 4 years between Vornaud, Vvarden, and Ardenvale. Vornaud largely had the advantage in terms of manpower and the size of their army, but were stalemated by Ardenvale's prowess over magic, and Vvarden's ingenunity and technological superiority, especially when their latest creation, The Warforged, took to the field. but after [[Lore Tidbits/The Great Awakening\|The Great Awakening]], where Warforged gained sentience, it created a break in the fighting long enough for those with wisdom to create the peace treaty, with a ceremonious beheading of the King of Vornaud and turning it into a Republic. hooray!
 
 ### [[Lore Tidbits/The Creation of The Grey\|The Creation of The Grey]]
 
