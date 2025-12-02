@@ -24,13 +24,11 @@ The current elected officials, usually referred to with the title 'Count', are:
 
 #### Notable Locations
 
-- The Virellus Reserve - The First bank of Turogarde, originally a church to Virellus, has operated as a bank for the past 250 years
+- The Virellus Reserve - The First bank of Turogarde, originally a church to Virellus, has operated as a bank for the past 150 years
 - The Lucky Dip - A tavern on the outskirts of town, popular for adventurers
 - The Water Cooler - A tavern in Trader's Square commonly frequented by white collar workers after hours
 - Park in the city
 - Vurana's Fount - a fountain in the centre of the city. The citizenry and tourists to Vornuad usually flick coins into the fountain for good luck
-- Fancy Restaurant
-- Club
 - Wild Wardens Warehouse
 
 
