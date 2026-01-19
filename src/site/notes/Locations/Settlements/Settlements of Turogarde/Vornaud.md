@@ -19,6 +19,7 @@ The current elected officials, usually referred to with the title 'Count', are:
 * Count Gilbert Walmart - Human Man 
 * Count Victoria Cromwell - Elven Woman 
 * Count Torinn Rubyeye - Dragonborn Man 
+* Count Darius Tyrell - Human Man 
 
 
 
