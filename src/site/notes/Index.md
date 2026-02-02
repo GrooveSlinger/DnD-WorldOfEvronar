@@ -16,6 +16,8 @@ From here you can explore various informations pertaining to the world of Evrona
 
 Alternatively, if you're just looking for a quick introduction to the important aspects of the World History and Tidbits, please check out this [[Primer\|Primer]]
 
+Also See: [[House Rules\|House Rules]]
+
 
 
 
