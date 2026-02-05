@@ -31,6 +31,7 @@ The current elected officials, usually referred to with the title 'Count', are:
 - Park in the city
 - Vurana's Fount - a fountain in the centre of the city. The citizenry and tourists to Vornuad usually flick coins into the fountain for good luck
 - Wild Wardens Warehouse
+- Vauther Institute
 
 
 #### Notable Info
