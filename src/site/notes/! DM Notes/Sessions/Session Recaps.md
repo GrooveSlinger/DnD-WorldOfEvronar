@@ -12,3 +12,5 @@ This is an index for all the sessions thus far:
 * [[! DM Notes/Sessions/Session 6\|Session 6]] - Ran 2nd May 2026
 * [[! DM Notes/Sessions/Session 7\|Session 7]] - Ran 30th May 2026
 * [[! DM Notes/Sessions/Session 8\|Session 8]] - Ran 11th July 2026
+* [[! DM Notes/Sessions/Session 9\|Session 9]] - Ran 1st August 2026
+* [[! DM Notes/Sessions/Session 10\|Session 10]] - Ran 16th August 2026
