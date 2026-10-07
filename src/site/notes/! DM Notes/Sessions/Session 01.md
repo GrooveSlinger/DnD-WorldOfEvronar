@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/dm-notes/sessions/session-01/"}
 ---
 
-Ran: 24th Jan
+bRan: 24th Jan
 
 
 

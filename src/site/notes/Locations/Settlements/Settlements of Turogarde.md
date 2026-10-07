@@ -17,3 +17,5 @@ As Turogarde is a series of city states, this is listed as Major cities and then
 * 
 #### [[Locations/Settlements/Settlements of Turogarde/Ayara\|Ayara]]
 * 
+#### [[Locations/Settlements/Settlements of Turogarde/Gorthal\|Gorthal]]
+* 
